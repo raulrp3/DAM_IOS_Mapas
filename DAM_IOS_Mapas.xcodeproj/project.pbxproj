@@ -26,6 +26,7 @@
 		C190007E23C643DC0051045A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C190008023C643DC0051045A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C190008623C64CC70051045A /* ArtWork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtWork.swift; sourceTree = "<group>"; };
+		C190008823C660310051045A /* default.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = default.gpx; path = ../../../Downloads/default.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		C190006623C643DB0051045A = {
 			isa = PBXGroup;
 			children = (
+				C190008823C660310051045A /* default.gpx */,
 				C190007123C643DB0051045A /* DAM_IOS_Mapas */,
 				C190007023C643DB0051045A /* Products */,
 			);
